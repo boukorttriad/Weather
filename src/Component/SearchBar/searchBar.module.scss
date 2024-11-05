@@ -1,0 +1,16 @@
+@import "../../assets/scss/variable.scss";
+
+.searchcontainer{
+   
+    display: flex;
+    gap: 1rem;
+    margin: 3rem auto 0;
+}
+.SearchInput{
+    background-color: rgba(255, 255, 255, 0.3);
+    border: none;
+    border-bottom: white 3px solid;
+    border-radius: 0;
+    width: 100%;
+    
+}

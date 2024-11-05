@@ -1,0 +1,8 @@
+$theme-colors:(
+  'primary': #051937,
+  'second-color':#A8EB12,
+  'info':#00c9a7,
+  'danger':#ff8066
+);
+/* The following line can be included in a src/App.scss */
+@import '~bootstrap/scss/bootstrap';

@@ -1,0 +1,12 @@
+.wallpaper{
+    background-size: cover;
+    width: 100%;
+    margin: 0;
+    filter:blur(2px);
+    opacity: 50%;
+
+}
+.wallpaper-container{
+    z-index: -1;
+    background-color: rgb(114, 59, 59);
+}
